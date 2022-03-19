@@ -16,6 +16,13 @@ liste, som fylles opp av objektelementer fra klassen Ball. Her er ikke metodene 
 ### __repr__():
 Alle objekter bør ha __repr__() eller __str__() metodene. Her er enkel formel som viser hvordan objektet skrives ut.
 
+### Dragon Riddle
+En enkel fil for å demonstrere if og elif. Denne filen er kodet så enkelt at du skal kunne lese hva som skjer. 
+
+### Hexadale tallsystem
+Det startet med koden å formatere seistentallsystemet med f'string, og fortsatte med finurlige formatteringer av tall. Dette er lagt med for at dere kan teste ut. 
+
+
 
 
 
